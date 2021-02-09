@@ -1,1 +1,1 @@
-Learn how to make more robust and flexible code bases by using interfaces!
+In this section we'll set the stage for interfaces and learn about TODOs!
